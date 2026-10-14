@@ -1,8 +1,8 @@
 # 🔭 AgentVC Index — OSS Investment Case Database
 
 > Curated by **Lucy Chen** · [linkedin.com/in/lucycxy](https://linkedin.com/in/lucycxy)  
-> Framework: [OSS Investment Scorecard v1.1](https://github.com/el09xccxy-stack/oss-investment-scorecard)  
-> GitHub Org: [github.com/el09xccxy-stack/agentvc-index](https://github.com/el09xccxy-stack/agentvc-index)
+> Framework: [OSS Investment Scorecard v1.1](https://github.com/lucy-cxy/oss-investment-scorecard)  
+> GitHub Org: [github.com/lucy-cxy/agentvc-index](https://github.com/lucy-cxy/agentvc-index)
 
 ---
 
@@ -195,7 +195,7 @@ cases/YYYY-MM-DD_project-slug.md
 
 ## 🤝 Contributing
 
-Cases are generated and reviewed internally. Each file follows the OSS Investment Scorecard v1.1 template. External submissions may be accepted via the companion repository [oss-investment-scorecard](https://github.com/el09xccxy-stack/oss-investment-scorecard).
+Cases are generated and reviewed internally. Each file follows the OSS Investment Scorecard v1.1 template. External submissions may be accepted via the companion repository [oss-investment-scorecard](https://github.com/lucy-cxy/oss-investment-scorecard).
 
 ---
 
