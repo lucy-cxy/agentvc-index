@@ -32,14 +32,16 @@
 
 | Dimension | Weight | Score | Weighted | Key Evidence |
 |---|---|---|---|---|
-| A. Open-Source Ecosystem | 25% | 8.2/10 | 2.05 | Strong star count, active release cadence, ModelScope ecosystem integration |
-| B. Team & Globalisation | 20% | 7.8/10 | 1.56 | Alibaba DAMO Academy backing; bilingual documentation; growing international contributor base |
-| C. Technical Moat | 20% | 7.8/10 | 1.56 | Actor-based distributed agent runtime; built-in fault tolerance; structured message passing protocol |
-| D. Commercialisation & PMF | 20% | 5.5/10 | 1.10 | Alibaba Cloud integration provides indirect PMF signal; no independent ARR disclosed |
-| E. Exit Path | 15% | 6.5/10 | 0.98 | Strategic value as enterprise multi-agent platform; Alibaba ecosystem creates natural acquirer landscape |
-| **Total** | 100% | — | **7.25/10** | |
+| A. Open-Source Ecosystem | 25% | 7.0/10 | 1.75 | Strong star count, active release cadence, ModelScope ecosystem integration |
+| B. Team & Globalisation | 20% | 6.5/10 | 1.30 | Alibaba DAMO Academy backing; bilingual documentation; growing international contributor base |
+| C. Technical Moat | 20% | 6.5/10 | 1.30 | Actor-based distributed agent runtime; built-in fault tolerance; structured message passing protocol |
+| D. Commercialisation & PMF | 20% | 7.0/10 | 1.40 | Alibaba Cloud integration provides indirect PMF signal; no independent ARR disclosed |
+| E. Exit Path | 15% | 6.5/10 | 0.975 | Strategic value as enterprise multi-agent platform; Alibaba ecosystem creates natural acquirer landscape |
+| **Total** | 100% | — | **6.725/10 raw; 6.73/10 canonical** | |
 
-**Verdict:** 🟡 Recommend with Conditions
+**Verdict:** 🟠 Watch / Track
+
+> **Canonical W10 source-of-record (2026-10-14):** The public W10 vector is synchronized to the later AgentVC README correction: A=7.0, B=6.5, C=6.5, D=7.0, E=6.5. The original case prose is retained as historical evidence context.
 
 ---
 

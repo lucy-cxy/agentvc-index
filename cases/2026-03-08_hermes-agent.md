@@ -11,10 +11,10 @@
 | Field | Value |
 |---|---|
 | **Project Name** | Hermes Agent |
-| **GitHub Repository** | https://github.com/NousResearch/hermes-function-calling |
+| **GitHub Repository** | https://github.com/NousResearch/hermes-agent |
 | **Commercial Entity** | Nous Research |
 | **Funding Stage** | Bootstrapped / community-funded signals |
-| **Sub-sector** | Function-calling agent models / structured output LLMs |
+| **Sub-sector** | Open-source agent platform / agent tooling |
 
 ---
 
@@ -32,14 +32,16 @@
 
 | Dimension | Weight | Score | Weighted | Key Evidence |
 |---|---|---|---|---|
-| A. Open-Source Ecosystem | 25% | 7.5/10 | 1.88 | Strong Hugging Face model downloads; active community; cited in multiple agent framework integrations |
-| B. Team & Globalisation | 20% | 6.8/10 | 1.36 | Nous Research has established credibility in open-weight model community; English-first; limited enterprise GTM |
-| C. Technical Moat | 20% | 7.2/10 | 1.44 | Structured function-calling fine-tuning methodology with JSON schema enforcement; reproducible training pipeline |
-| D. Commercialisation & PMF | 20% | 4.8/10 | 0.96 | No public ARR; model downloads and integrations serve as PMF proxy; no enterprise contract signals |
-| E. Exit Path | 15% | 6.0/10 | 0.90 | Acquisition interest plausible from enterprise AI platforms needing reliable structured output models |
-| **Total** | 100% | — | **6.54/10** | |
+| A. Open-Source Ecosystem | 25% | 6.5/10 | 1.625 | Hermes Agent repository and community surface; active release cadence |
+| B. Team & Globalisation | 20% | 7.0/10 | 1.40 | Nous Research has established credibility in the open-weight model community; English-first; limited enterprise GTM |
+| C. Technical Moat | 20% | 6.0/10 | 1.20 | Agent runtime with skills, memory, cron, subagents and gateway; reproducible agent workflow architecture |
+| D. Commercialisation & PMF | 20% | 5.5/10 | 1.10 | No public ARR; hosted/agent productisation not yet disclosed; community and usage serve as PMF proxies |
+| E. Exit Path | 15% | 6.5/10 | 0.975 | Strategic value as an open-source agent platform; plausible acquirers include enterprise AI platforms |
+| **Total** | 100% | — | **6.300/10** | |
 
 **Verdict:** 🟠 Watch / Track
+
+> **Canonical W10 source-of-record (2026-10-14):** The public W10 vector is synchronized to the AgentVC README. This case now refers to `hermes-agent`, not the separate historical `hermes-function-calling` repository.
 
 ---
 

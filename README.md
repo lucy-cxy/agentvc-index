@@ -127,7 +127,7 @@ xychart-beta
     title "OSS Investment Scores — 2026-W10"
     x-axis ["deer-flow", "agentscope", "LMCache", "hermes-agent", "AReaL"]
     y-axis "Weighted Score" 0 --> 10
-    bar [6.15, 6.73, 7.78, 6.30, 7.23]
+    bar [6.15, 6.73, 7.13, 6.30, 6.58]
 ```
 
 ```mermaid
@@ -148,8 +148,8 @@ quadrantChart
 
 | Project | Score | Verdict | Case File |
 |---|---|---|---|
-| LMCache | **7.78** | 🟡 Yellow | [→](cases/2026-03-08_lmcache.md) |
-| AReaL | **7.23** | 🟡 Yellow | [→](cases/2026-03-08_areal.md) |
+| LMCache | **7.13** | 🟡 Yellow | [→](cases/2026-03-08_lmcache.md) |
+| AReaL | **6.58** | 🟠 Watch | [→](cases/2026-03-08_areal.md) |
 | AgentScope | **6.73** | 🟠 Watch | [→](cases/2026-03-08_agentscope.md) |
 | Hermes Agent | **6.30** | 🟠 Watch | [→](cases/2026-03-08_hermes-agent.md) |
 | DeerFlow | **6.15** | 🟠 Watch ⚠️ Corp | [→](cases/2026-03-08_deer-flow.md) |
@@ -160,9 +160,9 @@ quadrantChart
 |---|---|---|---|---|---|---|
 | deer-flow | 7.0 | 6.5 | 6.5 | 6.0 | 4.0 | **6.15** |
 | agentscope | 7.0 | 6.5 | 6.5 | 7.0 | 6.5 | **6.73** |
-| LMCache | 7.5 | 7.5 | 8.0 | 8.0 | 8.0 | **7.78** |
+| LMCache | 8.0 | 7.0 | 8.5 | 4.5 | 7.5 | **7.13** |
 | hermes-agent | 6.5 | 7.0 | 6.0 | 5.5 | 6.5 | **6.30** |
-| AReaL | 7.5 | 7.0 | 7.0 | 7.5 | 7.0 | **7.23** |
+| AReaL | 7.2 | 6.5 | 8.0 | 4.5 | 6.5 | **6.58** |
 
 ---
 
@@ -171,11 +171,11 @@ quadrantChart
 | Project | Score | Visual (0-10) |
 |:---|:---:|:---|
 | **Unsloth** | **8.10** | `████████████████░░░░` |
-| **LMCache** | **7.78** | `███████████████░░░░░` |
+| **LMCache** | **7.13** | `██████████████░░░░░░` |
 | **Hindsight** | **7.55** | `███████████████░░░░░` |
 | **Infisical Agent Vault** | **7.50** | `███████████████░░░░░` |
 | **DeepAgents** | **7.45** | `███████████████░░░░░` |
-| **AReaL** | **7.23** | `██████████████░░░░░░` |
+| **AReaL** | **6.58** | `█████████████░░░░░░░` |
 | **AgentScope** | **6.73** | `█████████████░░░░░░░` |
 | **TradingAgents** | **6.35** | `█████████████░░░░░░░` |
 | **Hermes Agent** | **6.30** | `█████████████░░░░░░░` |
