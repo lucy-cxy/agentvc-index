@@ -60,5 +60,5 @@ Potential acquisition by trading platforms (QuantConnect, Alpaca), hedge funds, 
 
 ---
 
-*Published by Lucy Chen (@el09xc) | Zoo Capital | github.com/el09xccxy-stack/oss-investment-scorecard*
+*Published by Lucy Chen (@el09xc) | Zoo Capital | github.com/lucy-cxy/oss-investment-scorecard*
 *This assessment is for informational purposes only and does not constitute investment advice.*
